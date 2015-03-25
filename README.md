@@ -2,4 +2,4 @@
 
 Preview: http://w3c-social.github.io/soc-ucr/
 
-Please edit **index.html*
+Please edit **index.html**
