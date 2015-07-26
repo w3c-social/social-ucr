@@ -4,35 +4,33 @@ Preview: http://w3c-social.github.io/social-ucr/
 
 Please edit **index.html**
 
-## Proposed Implementations
+## Implementations
 
-### Approved User Stories
+* **Live** implementations must be currently online, and permalinks to examples must be provided. 
+* **Proposed** implementations are yet to be implemented but suspected that a technology can fulfill the story.
+
+### [Approved User Stories](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Approved_user_stories)
 
 Story | IndieWeb | ActivityPump | SoLiD
 ------|:--------:|:------------:|:------
-[SWAT0](https://www.w3.org/wiki/Socialwg/SWAT0) | [✓](https://github.com/aaronpk/Micropub/blob/master/user-stories/SWAT0.md) | | [✓] (http://ods.openlinksw.com/dataspace/doc/dav/wiki/ODS/ODSSWATOTutorial)
-[User posts a note](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_note) | [✓](https://github.com/aaronpk/Micropub/blob/master/user-stories/user-posts-a-note.md) |  [✓](https://github.com/w3c-social/activitypump/blob/master/userstories/user-posts-a-note.md) | [✓](https://github.com/linkeddata/solid#brief-example-of-solid-in-action) |
-[Reading a user's recent posts](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Reading_a_user.27s_recent_posts) |  | [✓](https://github.com/w3c-social/activitypump/blob/master/userstories/reading-a-users-recent-posts.md) |  |
-[Following a Person](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Following_a_person) |  | [✓](https://github.com/w3c-social/activitypump/blob/master/userstories/following-a-person.md) |  |
-[Inbox](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Inbox) |  | [✓](https://github.com/w3c-social/activitypump/blob/master/userstories/inbox.md) |  |
+[SWAT0](https://www.w3.org/wiki/Socialwg/SWAT0) | [Live](http://tantek.com/2015/193/t2/user-flow-permalinks-indieweb-swat0) | | [Proposed] (http://ods.openlinksw.com/dataspace/doc/dav/wiki/ODS/ODSSWATOTutorial)
+[User posts a note](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_note) | [Proposed](https://github.com/aaronpk/Micropub/blob/master/user-stories/user-posts-a-note.md) |  [Proposed](https://github.com/w3c-social/activitypump/blob/master/userstories/user-posts-a-note.md) | [Proposed](https://github.com/linkeddata/solid#brief-example-of-solid-in-action) |
+[Reading a user's recent posts](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Reading_a_user.27s_recent_posts) | [Proposed](https://github.com/aaronpk/Micropub/blob/master/user-stories/reading-recent-posts.md) | [Proposed](https://github.com/w3c-social/activitypump/blob/master/userstories/reading-a-users-recent-posts.md) |  |
+[Following a Person](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Following_a_person) |  | [Proposed](https://github.com/w3c-social/activitypump/blob/master/userstories/following-a-person.md) |  |
+[Inbox](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Inbox) |  | [Proposed](https://github.com/w3c-social/activitypump/blob/master/userstories/inbox.md) |  |
 [Adding recommendations to bespoke software](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Integration_:_Adding_recommendations_to_bespoke_software) |  |  |  |
 [Adding comments to bespoke software](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Integration_:_Adding_comments_to_bespoke_software) |  |  |  |
 [Direct Messaging](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Direct_Messaging) |  |  |  |
 
-### User Stories waiting for approval
+### [Proposed user stories](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Proposed_user_stories)
 
 Story | IndieWeb | ActivityPump | SoLiD
 ------|:--------:|:------------:|:------
-[User posts a file](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_file) | [✓](https://github.com/aaronpk/Micropub/blob/master/user-stories/user-posts-a-file.md) |  |  |
-[Responses](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Responses) | [✓](https://github.com/aaronpk/Micropub/blob/master/user-stories/responses.md) |  |  |
-[User profile management](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_profile_management) |  |  | [✓](https://github.com/linkeddata/SoLiD/blob/master/UserStories/UserProfileManagement.md)
-[Private sharing](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Private_Sharing) |  |  | [✓](https://github.com/linkeddata/SoLiD/blob/master/UserStories/PrivateSharing.md)
+[User posts a file](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_file) | [Proposed](https://github.com/aaronpk/Micropub/blob/master/user-stories/user-posts-a-file.md) |  |  |
+[Responses](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Responses) | [Proposed](https://github.com/aaronpk/Micropub/blob/master/user-stories/responses.md) |  |  |
+[User profile management](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_profile_management) |  |  | [Proposed](https://github.com/linkeddata/SoLiD/blob/master/UserStories/UserProfileManagement.md)
+[Private sharing](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Private_Sharing) |  |  | [Proposed](https://github.com/linkeddata/SoLiD/blob/master/UserStories/PrivateSharing.md)
+[Browsing the Friendship Graph](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Browsing_the_Friendship_Graph) | |  |  [Live](http://linkeddata.github.io/profile-editor/#/friends/view?webid=http:%2F%2Fbblfish.net%2Fpeople%2Fhenry%2Fcard%23me)|
 
-
-### User Stories with existing implemetations
-
-Story | IndieWeb | ActivityPump | SoLiD
-------|:--------:|:------------:|:------
-[Browsing the Friendship Graph](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Browsing_the_Friendship_Graph) | |  |  [✓](http://linkeddata.github.io/profile-editor/#/friends/view?webid=http:%2F%2Fbblfish.net%2Fpeople%2Fhenry%2Fcard%23me)|
 
 
