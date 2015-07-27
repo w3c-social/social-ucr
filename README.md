@@ -1,9 +1,5 @@
 # Social Web Use Cases and Requirements
 
-Preview: http://w3c-social.github.io/social-ucr/
-
-Please edit **index.html**
-
 ## Implementations
 
 Status | Description
@@ -36,5 +32,11 @@ Story | IndieWeb | ActivityPump | SoLiD
 [Private sharing](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Private_Sharing) |  |  | [![Brainstorming](/img/brainstorming.png)](https://github.com/linkeddata/SoLiD/blob/master/UserStories/PrivateSharing.md)
 [Browsing the Friendship Graph](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Browsing_the_Friendship_Graph) | |  |  [![Live - one site](/img/live-one.png)](http://linkeddata.github.io/profile-editor/#/friends/view?webid=http:%2F%2Fbblfish.net%2Fpeople%2Fhenry%2Fcard%23me)|
 
+
+## User Stories
+
+Preview: http://w3c-social.github.io/social-ucr/
+
+Please edit **index.html**
 
 
