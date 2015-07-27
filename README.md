@@ -6,10 +6,10 @@ Please edit **index.html**
 
 ## Implementations
 
-* ![Live - interop](/img/live-interop.png) <br>More than one live implementations (must be separate code bases) interoperating with each other. Must be currently online, and permalinks to examples must be provided.
-* ![Live - one site](/img/live-one.png) <br>Live implementation on one site, must be currently online, and permalinks to examples must be provided. 
-* ![In Development](/img/development.png) <br>An implementation for this story is in development. Provide link to source code.
-* ![Brainstorming](/img/brainstorming.png) <br>Documentation of how a story could be done given a set of technologies.
+* ![Live - interop](/img/live-interop.png) More than one live implementation (must be separate code bases) interoperating with each other. Must be currently online, and permalinks to examples must be provided.
+* ![Live - one site](/img/live-one.png) Live implementation on one site, must be currently online, and permalinks to examples must be provided. 
+* ![In Development](/img/development.png) An implementation for this story is in development. Provide link to source code.
+* ![Brainstorming](/img/brainstorming.png) Documentation of how a story could be done given a set of technologies.
 
 ### [Approved User Stories](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Approved_user_stories)
 
