@@ -30,7 +30,7 @@ Story | IndieWeb | ActivityPump | SoLiD
 [Responses](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Responses) | [![Brainstorming](/img/brainstorming.png)](https://github.com/aaronpk/Micropub/blob/master/user-stories/responses.md) |  |  |
 [User profile management](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_profile_management) |  |  | [![Brainstorming](/img/brainstorming.png)](https://github.com/linkeddata/SoLiD/blob/master/UserStories/UserProfileManagement.md)
 [Private sharing](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Private_Sharing) |  |  | [![Brainstorming](/img/brainstorming.png)](https://github.com/linkeddata/SoLiD/blob/master/UserStories/PrivateSharing.md)
-[Browsing the Friendship Graph](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Browsing_the_Friendship_Graph) | |  |  [![Live - one site](/img/live-one.png)](http://linkeddata.github.io/profile-editor/#/friends/view?webid=http:%2F%2Fbblfish.net%2Fpeople%2Fhenry%2Fcard%23me)|
+[Browsing the Friendship Graph](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Browsing_the_Friendship_Graph) | |  |  [![Live - interop](/img/live-interop.png)](http://linkeddata.github.io/profile-editor/#/friends/view?webid=http:%2F%2Fbblfish.net%2Fpeople%2Fhenry%2Fcard%23me)|
 
 
 ## User Stories
